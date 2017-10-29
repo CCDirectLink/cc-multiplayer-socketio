@@ -1,0 +1,14 @@
+{
+	"type": "object",
+	"name": "multiplayer",
+	"members": [{
+		"type": "member",
+		"refType": "raw",
+		"name": "version",
+		"parent": "this",
+		"compiled": {
+			"type": "fixed",
+			"pattern": 1
+		}
+	}]
+}
